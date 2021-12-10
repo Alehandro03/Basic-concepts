@@ -1,0 +1,15 @@
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\PrivedeniaTipov.exe
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\PrivedeniaTipov.deps.json
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\PrivedeniaTipov.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\PrivedeniaTipov.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\PrivedeniaTipov.dll
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\ref\PrivedeniaTipov.dll
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\bin\Release\net5.0\PrivedeniaTipov.pdb
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.dll
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\ref\PrivedeniaTipov.dll
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.pdb
+D:\VS\HomeWork\HomeWork\PrivedeniaTipov\PrivedeniaTipov\obj\Release\net5.0\PrivedeniaTipov.genruntimeconfig.cache
