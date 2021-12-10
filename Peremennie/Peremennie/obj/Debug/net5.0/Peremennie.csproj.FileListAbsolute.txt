@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\Peremennie.exe
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\Peremennie.deps.json
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\Peremennie.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\Peremennie.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\Peremennie.dll
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\ref\Peremennie.dll
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\bin\Debug\net5.0\Peremennie.pdb
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.dll
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\ref\Peremennie.dll
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.pdb
+D:\VS\HomeWork\HomeWork\Peremennie\Peremennie\obj\Debug\net5.0\Peremennie.genruntimeconfig.cache
