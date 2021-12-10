@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\Vetvlenia.exe
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\Vetvlenia.deps.json
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\Vetvlenia.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\Vetvlenia.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\Vetvlenia.dll
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\ref\Vetvlenia.dll
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\bin\Debug\net5.0\Vetvlenia.pdb
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.dll
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\ref\Vetvlenia.dll
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.pdb
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.genruntimeconfig.cache
+D:\VS\HomeWork\HomeWork\Vetvlenia\Vetvlenia\obj\Debug\net5.0\Vetvlenia.csproj.AssemblyReference.cache
