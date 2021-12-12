@@ -1,0 +1,15 @@
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\NewMonstr.exe
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\NewMonstr.deps.json
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\NewMonstr.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\NewMonstr.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\NewMonstr.dll
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\ref\NewMonstr.dll
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\bin\Debug\net5.0\NewMonstr.pdb
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.dll
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\ref\NewMonstr.dll
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.pdb
+D:\VS\HomeWork\HomeWork\NewMonstr\NewMonstr\obj\Debug\net5.0\NewMonstr.genruntimeconfig.cache
