@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\MyFirsList.exe
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\MyFirsList.deps.json
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\MyFirsList.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\MyFirsList.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\MyFirsList.dll
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\ref\MyFirsList.dll
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\bin\Debug\net5.0\MyFirsList.pdb
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.dll
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\ref\MyFirsList.dll
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.pdb
+D:\VS\HomeWork\HomeWork\MyFirsList\MyFirsList\obj\Debug\net5.0\MyFirsList.genruntimeconfig.cache
