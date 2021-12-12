@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\IOHelperOPDMonstr.exe
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\IOHelperOPDMonstr.deps.json
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\IOHelperOPDMonstr.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\IOHelperOPDMonstr.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\IOHelperOPDMonstr.dll
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\ref\IOHelperOPDMonstr.dll
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\bin\Debug\net5.0\IOHelperOPDMonstr.pdb
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.dll
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\ref\IOHelperOPDMonstr.dll
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.pdb
+D:\VS\HomeWork\HomeWork\IOHelperOPDMonstr\IOHelperOPDMonstr\obj\Debug\net5.0\IOHelperOPDMonstr.genruntimeconfig.cache
